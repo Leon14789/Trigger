@@ -27,4 +27,4 @@ Agora, o sistema de gerenciamento de banco de dados voltará a reconhecer o pont
 
 
 
-[Link Para Verificar o SQL](https://github.com/Leon14789/Comercio-Eletr/blob/master/sql)
+[Link Para Verificar o SQL](https://github.com/Leon14789/Trigger/blob/master/sql)
